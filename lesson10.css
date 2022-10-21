@@ -1,0 +1,12 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.block {
+    background-color: aqua;
+    height: 1000px;
+    width: 1000000px;
+
+}

@@ -1,0 +1,8 @@
+.red {
+    background-color: red;
+    margin: 40px;
+    padding: 40px;
+    width: 40px;
+    height: 40px;
+    border: 25PX solid rgb(51, 153, 102) ;
+}
